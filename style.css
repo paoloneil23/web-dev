@@ -7,9 +7,9 @@
 header
 {
     background-image:linear-gradient(rgba(0,0,0,0.5)) url(myoui.jpg);
-    height: 50vh;
+    height: 20vh;
     background-size: cover;
-    background-position: center;
+    background-position: left;
 }
 
 .main-nav
