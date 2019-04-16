@@ -23,3 +23,12 @@ header
 {
     display: inline-block;
 }
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 50px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
