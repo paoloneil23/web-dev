@@ -6,7 +6,7 @@
 
 header
 {
-    background-image:linear-gradient(rgba(0,0,0,0.5)) url(myoui.jpg);
+    background-image:url(myoui.jpg);
     height: 100vh;
     background-size: cover;
     background-position: right;
@@ -16,7 +16,7 @@ header
 {
     float: center;
     list-style: none;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 
 .main-nav li
