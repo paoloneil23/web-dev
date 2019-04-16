@@ -9,7 +9,7 @@ header
     background-image:linear-gradient(rgba(0,0,0,0.5)) url(myoui.jpg);
     height: 20vh;
     background-size: cover;
-    background-position: left;
+    background-position: right;
 }
 
 .main-nav
@@ -33,5 +33,18 @@ header
     font-size: 15px;
 }
 
+.main-nav li.active a
+{
+    border: 1px solid white;
+}
 
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
 
+.logo img
+{
+    width: 150px;
+    height: auto;
+}
