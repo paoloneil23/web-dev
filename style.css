@@ -97,7 +97,7 @@ h1
 
 .btn-one
 {
-    background-color: darkred;
+    background-color: yellow;
     font-family: "Roboto", sans-serif;
 }
 
@@ -108,6 +108,6 @@ h1
 
 .btn-two
 {
-    background-color: darkred;
+    background-color: yellow;
     transition: all 0.5s ease-in;
 }
