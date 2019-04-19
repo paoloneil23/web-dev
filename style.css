@@ -7,7 +7,7 @@
 header
 {
     background-image:url(paolo.jpg);
-    height: 100vh;
+    height: 50vh;
     background-size: cover;
     background-position: right;
 }
@@ -119,4 +119,5 @@ h2
     text-align: left;
     height: 2000px;
     float: left;
+    text-align: center;
 }
