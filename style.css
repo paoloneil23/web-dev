@@ -30,18 +30,17 @@ header
     padding: 5px 20px;
     font-family: "Roboto", sans-serif;
     font-size: 15px;
+    background-color: white;
 }
 
 .main-nav li.active a
 {
     border: 1px solid white;
-    background-color: white;
 }
 
 .main-nav li a:hover
 {
     border: 1px solid white;
-    background-color: white;
 }
 
 .logo img
