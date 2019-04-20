@@ -97,7 +97,7 @@ h1
 
 .btn-one
 {
-    border: 1px solid white
+    border: 1px solid white;
     background-color: white;
     font-family: "Roboto", sans-serif;
 }
@@ -109,7 +109,7 @@ h1
 
 .btn-two
 {
-    border: 1px solid white
+    border: 1px solid white;
     background-color: white;
     transition: all 0.5s ease-in;
 }
