@@ -99,6 +99,7 @@ h1
     border: 1px solid white;
     background-color: white;
     font-family: "Roboto", sans-serif;
+    text-align: center;
 }
 
 .btn-two
@@ -111,6 +112,7 @@ h1
     border: 1px solid white;
     background-color: white;
     transition: all 0.5s ease-in;
+    text-align: center;
 }
 
 h2
