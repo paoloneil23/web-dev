@@ -16,6 +16,7 @@ header
 {
     float: center;
     list-style: none;
+    background-color: white;
 }
 
 .main-nav li
@@ -30,7 +31,6 @@ header
     padding: 5px 20px;
     font-family: "Roboto", sans-serif;
     font-size: 15px;
-    background-color: white;
 }
 
 .main-nav li.active a
