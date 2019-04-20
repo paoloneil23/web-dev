@@ -16,12 +16,12 @@ header
 {
     float: center;
     list-style: none;
-    background-color: white;
 }
 
 .main-nav li
 {
     display: inline-block;
+    background-color: white;
 }
 
 .main nav li a
