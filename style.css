@@ -26,7 +26,7 @@ header
 
 .main nav li a
 {
-    color: white;
+    color: solid white;
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto", sans-serif;
@@ -86,7 +86,6 @@ h1
 
 .button
 {
-    border: 1px solid white;
     padding: 10px 30px;
     color: white;
     text-decoration: none;
@@ -97,6 +96,7 @@ h1
 
 .btn-one
 {
+    border: 1px solid white
     background-color: white;
     font-family: "Roboto", sans-serif;
 }
@@ -108,6 +108,7 @@ h1
 
 .btn-two
 {
+    border: 1px solid white
     background-color: white;
     transition: all 0.5s ease-in;
 }
